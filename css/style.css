@@ -1,0 +1,11 @@
+body{background-color: rgb(255, 221, 221);}
+
+hr{border-style: dotted none none; border-width: 5px; width: 100%;border-color: rgb(255, 56, 56);}
+
+h1{font-family: 'Lobster', cursive; color: #fa6060; font-size: xx-large;}
+
+h2, h3, h4{font-family: 'Lobster', cursive; color: #fa6060; font-size: larger;}
+
+a{color: rgb(109, 24, 109);}
+
+table, p, ol, ul, li{font-size: large; font-family: 'Oswald', cursive; color: rgb(202, 42, 42);}
