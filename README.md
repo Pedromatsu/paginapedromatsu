@@ -1,2 +1,2 @@
 # paginapedromatsu
-At IntrodWeb
+Portfólio pessoal e atividade de Introdução a programação web.
